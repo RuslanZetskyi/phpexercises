@@ -1,6 +1,5 @@
 <?php
 
-
 function factorial(int $number)
 {
 	$answer = 1;
