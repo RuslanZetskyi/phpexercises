@@ -1,0 +1,1 @@
+To check whether a number is Prime or not.
